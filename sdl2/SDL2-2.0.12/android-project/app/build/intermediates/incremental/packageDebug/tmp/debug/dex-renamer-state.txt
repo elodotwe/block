@@ -1,0 +1,4 @@
+#Tue Jun 23 22:58:44 EDT 2020
+base.0=/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

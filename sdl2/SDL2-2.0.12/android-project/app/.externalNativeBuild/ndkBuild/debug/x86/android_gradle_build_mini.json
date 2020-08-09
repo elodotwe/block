@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Android.mk",
+    "/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/jacob/Android/Sdk/ndk/21.3.6528147/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "SDL2-debug-x86": {
+      "artifactName": "SDL2",
+      "buildCommand": "/home/jacob/Android/Sdk/ndk/21.3.6528147/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so",
+      "abi": "x86",
+      "output": "/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so"
+    },
+    "hidapi-debug-x86": {
+      "artifactName": "hidapi",
+      "buildCommand": "/home/jacob/Android/Sdk/ndk/21.3.6528147/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libhidapi.so",
+      "abi": "x86",
+      "output": "/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libhidapi.so"
+    },
+    "main-debug-x86": {
+      "artifactName": "main",
+      "buildCommand": "/home/jacob/Android/Sdk/ndk/21.3.6528147/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libmain.so",
+      "abi": "x86",
+      "output": "/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libmain.so"
+    },
+    "cpufeatures-debug-x86": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/home/jacob/Android/Sdk/ndk/21.3.6528147/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcpufeatures.a",
+      "abi": "x86",
+      "output": "/home/jacob/repos/block/sdl2/SDL2-2.0.12/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcpufeatures.a"
+    }
+  }
+}
